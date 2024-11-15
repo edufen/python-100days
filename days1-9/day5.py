@@ -67,3 +67,4 @@ if __name__ == "__main__":
 
     # Executando o Projeto Final (Password Generator)
     password_generator()
+
